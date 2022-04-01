@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This is a simple Nodejs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hamidullah Muslih",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^27.5.1",
+    "superagent": "^7.1.2",
+    "supertest": "^6.2.2"
+  }
+}
