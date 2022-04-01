@@ -15,7 +15,7 @@ The tools that are used in this pipeline are as follows:
 9. **K8s** as a container orchestration tool.
 
 
-## Flow of the Pipeline
+## Flow of the Pipeline in the Jenkinsfile
 
 1. **Fetch Code:** Fetching the source code from Github.
 2. **Build:** Building the code and downloading the dependencies by npm
