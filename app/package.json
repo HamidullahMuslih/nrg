@@ -9,7 +9,7 @@
   "author": "Hamidullah Muslih",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.18.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
